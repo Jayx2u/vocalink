@@ -6,7 +6,7 @@ VOCALINK is a DIY mouth tracking solution built on [Project Babble](https://gith
 It captures real-time mouth and jaw movements using an OV2640 camera paired with machine learning, translating your natural expressions into authentic avatar animations that actually match how you speak, smile, and react.
 
 > [!CAUTION]
-> Please exercise extreme caution when messing around with IR emitters. Whilst the eyes are not directly exposed to the eyes, they are positioned close to them. Please make sure you know what you are doing when assembling the IR emitters. I am not responsible for any damages you cause when using the designs provided in this project. 
+> Please exercise extreme caution when messing around with IR emitters. Whilst the eyes are not directly exposed to the IR emitters, they are in close vicinity with each other. Please make sure you know what you are doing when assembling the IR emitters. I am not responsible for any damages you cause when using the designs provided in this project. 
 
 ## Hardware Design
 ![](https://github.com/Jayx2u/vocalink/blob/main/assets/vocalink-hardware-design.png?raw=true)

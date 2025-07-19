@@ -36,12 +36,13 @@ I wanted deeper immersion in social VR platforms, but got tired of my avatar's l
 | AP2112K-3.3TRG1             | C51118   | 5              | 0.1091           | 0.55             | https://lcsc.com/product-detail/voltage-regulators-linear-low-drop-out-ldo-regulators_diodes-ap2112k-3-3trg1_C51118.html         |
 | TLV70228DBVR                | C183080  | 5              | 0.1024           | 0.51             | https://lcsc.com/product-detail/voltage-regulators-linear-low-drop-out-ldo-regulators_ti-tlv70228dbvr_C183080.html               |
 | TLV70212DBVR                | C81462   | 5              | 0.1154           | 0.58             | https://lcsc.com/product-detail/voltage-regulators-linear-low-drop-out-ldo-regulators_ti-tlv70212dbvr_C81462.html                |
-| LCSC Shipping               |          |                | 25.15            |                  |                                                                                                                                  |
 |                             |          |                |                  |                  |                                                                                                                                  |
+| LCSC Components             |          | US$15.92       |                  |                  |                                                                                                                                  |
+| LCSC Shipping               |          | US$9.34        |                  |                  |                                                                                                                                  |
 | Economic PCBA - Front Layer | A$50.54  | ~US$33         |                  |                  |                                                                                                                                  |
 | JLCPCB Shipping             | A$16.86  | ~US$11         |                  |                  |                                                                                                                                  |
 |                             |          |                |                  |                  |                                                                                                                                  |
-| Total                       | US$80.46 |                |                  |                  |                                                                                                                                  |
+| Total                       | US$69.26 |                |                  |                  |                                                                                                                                  |
 
 </details>
 

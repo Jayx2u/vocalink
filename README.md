@@ -1,5 +1,5 @@
 # VOCALINK
-![](https://github.com/Jayx2u/vocalink/blob/main/assets/vocalink-banner.png?raw=true)
+![vocalink-banner.png](assets/vocalink-banner.png)
 
 VOCALINK is a DIY mouth tracking solution built on [Project Babble](https://github.com/Project-Babble/ProjectBabble) that brings natural facial expressions to your VR avatar. 
 
@@ -9,10 +9,10 @@ I wanted deeper immersion in social VR platforms, but got tired of my avatar's l
 > Please exercise extreme caution when messing around with IR emitters. Whilst the eyes are not directly exposed to the IR emitters, they are in close vicinity with each other. Please make sure you know what you are doing when assembling the IR emitters. I am not responsible for any damages you cause when using the designs provided in this project. 
 
 ## Hardware Design
-![](https://github.com/Jayx2u/vocalink/blob/main/assets/vocalink-hardware-design.png?raw=true)
+![vocalink-hardware-design.png](assets/vocalink-hardware-design.png)
 
 ## Mounting Design
-![](https://github.com/Jayx2u/vocalink/blob/main/assets/vocalink-mounting-design.png?raw=true)
+![vocalink-mounting-design.png](assets/vocalink-mounting-design.png)
 
 ## Bill Of Materials
 <details>

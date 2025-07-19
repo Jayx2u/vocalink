@@ -69,11 +69,13 @@ Annnnnd now it has ears. Some off camera grinding later and here we have the mou
 
 *Time Spent: 1h*
 
-# 2025-07-19 - Beautifying the project
+# 2025-07-19 - Beautifying the project and prepping for submission
 Whilst not hardware or CAD designing, I feel like beautifying a project really gives everything a finished touch. First was the renders of the PCBs. I exported the STEP files of the PCB from KiCAD, changed the materials in Fusion 360 and here is how I rendered it:
 
 ![](https://github.com/Jayx2u/vocalink/blob/main/assets/SCR-20250719-mfyu.png?raw=true)
 
 After that, it's to Figma to make the finals designs. You can see the end results in the README.
 
-*Time Spent: 40m*
+Next is BOM and production files. 
+
+*Time Spent: 2h 40m*

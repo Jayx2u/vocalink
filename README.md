@@ -1,2 +1,5 @@
 # VocaLink
 My own DIY Babble Mouth Tracker
+
+## Acknowledgments
+- ["Oculus quest 2"](https://skfb.ly/otI9p) by Nosakhae is licensed under [Creative Commons Attribution](http://creativecommons.org/licenses/by/4.0/).

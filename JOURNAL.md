@@ -46,3 +46,21 @@ On the front layer, we got the "control deck." Got the big brain ESP32 with the 
 The back layer is the eyes of the deck. I got mainly the very big 24-pin FPC connector here and the IR LEDs on the sides for ample lighting. Hopefully the ground planes help with heat dissipation???
 
 The main time waster here is going to be making the PCB footprint as small as possible. PCB tracing is art, and this is definitely some fine art. 🤭
+
+`vocalink-pcbdesign`
+
+Beautiful isn't it. Brings solder fumes to my eyes 🥹. Anyways I decided to hit the sack after this.
+
+*Time Spent: 16h*
+
+# 2025-07-19 - Final revisions to PCB and speedrunning CAD
+
+After a day of sleeping in down under, it is time to do the CAD. Here is a rough idea of how I want to mount it.
+
+`SCR-20250719-kene`
+
+The Quest 2 model was from [Nosakhae](https://sketchfab.com/3d-models/oculus-quest-2-c6a1c2623d224a1bbb81a38915f7e898). The plan is to use some sticky film to just stick it to the front of the headset. This shouldn't be an issue since everything is lightweight. Then it hits me... how do I mount the PCB to the actual mount?? Back to the PCB drawing board:
+
+`vocalink-pcbdesign2`
+
+Annnnnd now it has ears.

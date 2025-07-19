@@ -4,7 +4,7 @@ author: "Jayx2u"
 description: "DIY mouth tracking for VR avatars, bringing your real expressions into virtual worlds. Built on Project Babble."
 created_at: "2025-06-26"
 ---
-**Total Hours Spent: 34h**
+**Total Hours Spent: 35h**
 
 # 2025-07-09 - More expressions!!!!!
 I play VRChat... 🗑️😱🤯
@@ -83,4 +83,4 @@ Next is BOM and production files. I made the BOM using [LCSC's BOM Tool](https:/
 
 With this, I updated my BOM and the project is ready to be submitted! 🎉
 
-*Time Spent: 3h*
+*Time Spent: 4h*

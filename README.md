@@ -42,10 +42,9 @@ I wanted deeper immersion in social VR platforms, but got tired of my avatar's l
 | LCSC Shipping               |          | US$9.34        |                  |                  |                                                                                                                                  |
 | Economic PCBA - Front Layer | A$50.54  | ~US$33         |                  |                  |                                                                                                                                  |
 | JLCPCB Shipping             | A$16.86  | ~US$11         |                  |                  |                                                                                                                                  |
-|                             |          |                |                  |                  |                                                                                                                                  |
-| Total                       | US$70.26 |                |                  |                  |                                                                                                                                  |
-
 </details>
+
+**Total: US$70.26**
 
 ## Acknowledgments
 - [Project Babble](https://github.com/Project-Babble/ProjectBabble) - Firmware for mouth tracking and hardware selection guide.

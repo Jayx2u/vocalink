@@ -1,7 +1,7 @@
 ---
 title: "VocaLink"
 author: "Jayx2u"
-description: "A Mouth Tracker for VR"
+description: "DIY mouth tracking for VR avatars, bringing your real expressions into virtual worlds. Built on Project Babble."
 created_at: "2025-06-26"
 ---
 

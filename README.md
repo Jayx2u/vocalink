@@ -3,7 +3,7 @@
 
 VOCALINK is a DIY mouth tracking solution built on [Project Babble](https://github.com/Project-Babble/ProjectBabble) that brings natural facial expressions to your VR avatar. 
 
-It captures real-time mouth and jaw movements using an OV2640 camera paired with machine learning, translating your natural expressions into authentic avatar animations that actually match how you speak, smile, and react.
+I wanted deeper immersion in social VR platforms, but got tired of my avatar's lifeless stare while the rest of my body moved freely through virtual worlds. VOCALINK solves this by capturing real-time mouth and jaw movements with an OV2640 camera and machine learning, translating every smile, word, and expression into authentic avatar animations that finally make virtual conversations feel genuinely human.
 
 > [!CAUTION]
 > Please exercise extreme caution when messing around with IR emitters. Whilst the eyes are not directly exposed to the IR emitters, they are in close vicinity with each other. Please make sure you know what you are doing when assembling the IR emitters. I am not responsible for any damages you cause when using the designs provided in this project. 

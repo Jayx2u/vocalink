@@ -63,4 +63,17 @@ The Quest 2 model was from [Nosakhae](https://sketchfab.com/3d-models/oculus-que
 
 ![](https://github.com/Jayx2u/vocalink/blob/main/assets/vocalink-pcbdesign2.png?raw=true)
 
-Annnnnd now it has ears.
+Annnnnd now it has ears. Some off camera grinding later and here we have the mount design. Looks... meh, 3D CAD designing is not my forte...
+
+`SCR-20250719-lnda`
+
+*Time Spent: 1h*
+
+# 2025-07-19 - Beautifying the project
+Whilst not hardware or CAD designing, I feel like beautifying a project really gives everything a finished touch. First was the renders of the PCBs. I exported the STEP files of the PCB from KiCAD, changed the materials in Fusion 360 and here is how I rendered it:
+
+`SCR-20250719-mfyu`
+
+After that, it's to Figma to make the finals designs. You can see the end results in the README.
+
+*Time Spent: 40m*

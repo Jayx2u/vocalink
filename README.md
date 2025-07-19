@@ -44,5 +44,5 @@ I wanted deeper immersion in social VR platforms, but got tired of my avatar's l
 </details>
 
 ## Acknowledgments
-- [Project Babble](https://github.com/Project-Babble/ProjectBabble) - Machine learning models for mouth tracking and hardware selection guide.
+- [Project Babble](https://github.com/Project-Babble/ProjectBabble) - Firmware for mouth tracking and hardware selection guide.
 - [Oculus Quest 2 3D Model](https://skfb.ly/otI9p) - by Nosakhae is licensed under [Creative Commons Attribution](http://creativecommons.org/licenses/by/4.0/).

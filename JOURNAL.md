@@ -4,7 +4,8 @@ author: "Jayx2u"
 description: "DIY mouth tracking for VR avatars, bringing your real expressions into virtual worlds. Built on Project Babble."
 created_at: "2025-06-26"
 ---
-**Total Hours Spent: 35h**
+**Total Design Hours: 35h**
+**Total Build Hours: 8h**
 
 # 2025-07-09 - More expressions!!!!!
 I play VRChat... 🗑️😱🤯
@@ -84,3 +85,39 @@ Next is BOM and production files. I made the BOM using [LCSC's BOM Tool](https:/
 With this, I updated my BOM and the project is ready to be submitted! 🎉
 
 *Time Spent: 4h*
+
+# 2025-08-09 - Lock in for soldering
+It is the day. With a hot air reflow station and a hot plate borrowed from the school, solder paste bought from a local store and a friend to help me out, it's time to solder everything...
+
+Photo of the setup:
+'Photo here'
+
+The soldering of the esp was fine, we just pre pasted and cooked the pcb until it melted.
+
+'Photo here'
+
+With the back of the pcb, we just pre applied the paste then held the component with tweezers and blasted hot air onto it. Worked pretty well.
+
+All was good until we got to the FPC connector. It was so hard to solder and not get any of the pads to bridge. In the end... we grimaced the pads.
+
+'Photo here'
+
+But all is good! We have a second pcb to attempt on. When soldering the esp on, we managed to delid it..
+
+'Photo here'
+
+After that fiasco, we tried the FPC connector first, as you can see, it was prettyyyy hard
+
+'Photo here'
+
+After several attempts, we got this absolute abomination
+
+'Photo here'
+
+But everything seems to be fine so we soldered everything else down and started flashing it:
+
+'Photo here'
+
+And that is the build complete! First time hot air reflow soldering... it was quite the experience
+
+

@@ -120,4 +120,4 @@ But everything seems to be fine so we soldered everything else down and started 
 
 And that is the build complete! First time hot air reflow soldering... it was quite the experience
 
-
+*Time Spent: 8h*

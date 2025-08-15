@@ -90,33 +90,38 @@ With this, I updated my BOM and the project is ready to be submitted! 🎉
 It is the day. With a hot air reflow station and a hot plate borrowed from the school, solder paste bought from a local store and a friend to help me out, it's time to solder everything...
 
 Photo of the setup:
-'Photo here'
+
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/e2d28839c1d54641e257f731376c890bacde303e_img_7242.jpg)
 
 The soldering of the esp was fine, we just pre pasted and cooked the pcb until it melted.
 
-'Photo here'
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/453b87bdbf7d0fae5f1ef4c8f0160c523c8aadf7_img_7241.jpg)
 
 With the back of the pcb, we just pre applied the paste then held the component with tweezers and blasted hot air onto it. Worked pretty well.
 
-All was good until we got to the FPC connector. It was so hard to solder and not get any of the pads to bridge. In the end... we grimaced the pads.
+All was good until we got to the FPC connector. It was so hard to solder and not get any of the pads to bridge.
 
-'Photo here'
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/a7a06789093044d5be9f10b824363b33f26ddf09_img_7246.jpg)
+
+In the end... we grimaced the pads.
+
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/5f07870208999c78175db2fb3a7d6140ff6cd5ef_img_7330.jpg)
 
 But all is good! We have a second pcb to attempt on. When soldering the esp on, we managed to delid it..
 
-'Photo here'
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/c0d5048e3eaf4f6a42f377a5544214c49d664e05_img_7250.jpg)
 
 After that fiasco, we tried the FPC connector first, as you can see, it was prettyyyy hard
 
-'Photo here'
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/96eb9381b1d30a80612bbd267dae82343e9716f5_img_7251.jpg)
 
 After several attempts, we got this absolute abomination
 
-'Photo here'
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/7f59c474877617775cca36d95ff61e590e6349f0_img_7329.jpg)
 
 But everything seems to be fine so we soldered everything else down and started flashing it:
 
-'Photo here'
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/177c788993a6005972e4abc25e008a74b45b0db3_img_7328.jpg)
 
 And that is the build complete! First time hot air reflow soldering... it was quite the experience
 

@@ -14,6 +14,11 @@ I wanted deeper immersion in social VR platforms, but got tired of my avatar's l
 ## Mounting Design
 ![vocalink-mounting-design.png](assets/vocalink-mounting-design.png)
 
+## Showcase
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/49520fa6ab800bf19343a4b76255a16cb157cc5e_img_7322.jpg)
+
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/a6548f6c09933c2df9315bb7655ef53276668af4_img_7323.jpg)
+
 ## Bill Of Materials
 <details>
 <summary>Click to expand/collapse</summary>

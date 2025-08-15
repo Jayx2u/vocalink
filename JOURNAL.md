@@ -5,7 +5,7 @@ description: "DIY mouth tracking for VR avatars, bringing your real expressions 
 created_at: "2025-06-26"
 ---
 **Total Design Hours: 35h**
-**Total Build Hours: 8h**
+**Total Build Hours: 10h**
 
 # 2025-07-09 - More expressions!!!!!
 I play VRChat... 🗑️😱🤯
@@ -126,3 +126,15 @@ But everything seems to be fine so we soldered everything else down and started 
 And that is the build complete! First time hot air reflow soldering... it was quite the experience
 
 *Time Spent: 8h*
+
+2025-08-14 - Finishing up and demoing
+
+I know it is the day of the due date... we don't talk about that. I got my mount 3D printed by a friend. I attached it to my headset and this is what the finished product looks like:
+
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/49520fa6ab800bf19343a4b76255a16cb157cc5e_img_7322.jpg)
+
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/a6548f6c09933c2df9315bb7655ef53276668af4_img_7323.jpg)
+
+Installed Project Babble (ML model for mouth tracking) and VRCFT (software for making face tracking work in VRChat) which resulted in this demo video: https://youtu.be/pk8RPQfYxws
+
+*Time Spent: 2h*

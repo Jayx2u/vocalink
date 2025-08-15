@@ -127,7 +127,7 @@ And that is the build complete! First time hot air reflow soldering... it was qu
 
 *Time Spent: 8h*
 
-2025-08-14 - Finishing up and demoing
+# 2025-08-14 - Finishing up and demoing
 
 I know it is the day of the due date... we don't talk about that. I got my mount 3D printed by a friend. I attached it to my headset and this is what the finished product looks like:
 

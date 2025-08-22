@@ -19,6 +19,9 @@ I wanted deeper immersion in social VR platforms, but got tired of my avatar's l
 
 ![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/a6548f6c09933c2df9315bb7655ef53276668af4_img_7323.jpg)
 
+## Video Demo
+https://youtu.be/pk8RPQfYxws
+
 ## Bill Of Materials
 <details>
 <summary>Click to expand/collapse</summary>
